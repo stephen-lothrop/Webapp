@@ -1,0 +1,6 @@
+This document is to keep track of the progress in building the web app
+
+Web app starts on page 397 of Python Crash Course
+
+3/12/18: Stopped at the bottom of page 416
+3/13/18: stopped at the bottom of page 446
